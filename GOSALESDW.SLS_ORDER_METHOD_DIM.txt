@@ -1,0 +1,7 @@
+601	1	Fax	Fax	Télécopieur	ファックス	Fax	Fax	Fax	Fax	Faksi	Fax	Faks	Fax	팩스	Faks	Fax	Faks	Faks	Fax	Факс	传真	Fax	傳真	แฟกซ์
+602	2	Telephone	Telefon	Téléphone	電話	Telefon	Telefon	Τηλέφωνο	Teléfono	Puhelin	Telefon	Telepon	Telefono	전화	Telefon	Telefoon	Telefon	Telefon	Telefone	Телефон	电话	Telefon	電話	โทรศัพท์
+603	3	Mail	Post	Poste	郵便	Pošta	Post	Ταχυδρομείο	Correo	Posti	Postacím	Surat	Posta	우편	Mel	Post	Post	Poczta	Correio	Почта	邮寄	Post	郵寄	ไปรษณีย์
+604	4	E-mail	E-Mail	Courrier électronique	電子メール	E-mail	E-mail	Ηλεκτρονικό ταχυδρομείο	Correo electrónico	Sähköposti	E-mail	Email	Posta elettronica	전자메일	E-mel	E-mail	E-post	E-mail	E-mail	Эл. почта	电子邮件	E-post	電子郵件	อีเมล์
+605	5	Web	Web	Site Web	ホームページ	Web	Internet	Διαδίκτυο	Web	Web	Web	Web	Web	인터넷	Web	Internet	Internett	Sieć WWW	Web	Web	Web	Webb	網站	เว็บไซต์
+606	6	Sales visit	Verkaufsbesuch	Visite d'un représentant	店頭	Návštěva prodejce	Sælgerbesøg	Επίσκεψη πωλητή	Visita de ventas	Myyntikäynti	Kiszállásos eladás	Kunjungan penjualan	Reparto vendite	방문판매	Lawatan jualan	Vertegenwoordiger	Salgsbesøk	Wizyta	Visita vendas	Торг. агент	销售面访	Säljbesök	業務拜訪	เยี่ยมลูกค้า
+607	7	Special	Sonstiges	Autre	特別	Jiný	Andre	Άλλος τρόπος	Especial	Muu	Egyéb	Khusus	Altro	특별 주문	Khusus	Speciaal	Annet	Specjalna	Especial	Прочее	特殊	Special	其他	พิเศษ

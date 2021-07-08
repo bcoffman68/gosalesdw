@@ -1,0 +1,28 @@
+700	Unspecified	Unbestimmt	Non défini	指定なし	Neurčeno	Uspecificeret	Μη καθορισμένο	Sin especificar	Määrittämätön	Nem meghatározott	Tidak ditetapkan	Non specificato	명시되지 않음	Tidak ditentukan	Ongespecificeerd	Uspesifisert	Nieokreślone	Não especificado	Не задано	未指定	Ospecificerad	未指定	ไม่ระบุ
+701	TrailChef	TrailChef	ChefDeCamp	トレイルシェフ	Kuchtík	TrailChef	Μαρμίτα Σεφ	Cocinero Viajero	TrailChef	Nomád szakács	TrailChef	Chef	트래일셰프	TrailChef	Pionier	Turkokk	BiwaKuchnia	Serrania	Шеф-повар	TrailChef	Friluftskocken	悠遊	TrailChef
+702	Star	Star	Bellétoile	スター	Star	Star	Σείριος	Estrella	Star	Star	Star	Star	스타	Bintang	Nova	Rabben	Gwiazda	Domus	Звезда	Star	Stjärnan	星	Star
+703	Blue Steel	Blue Steel	Herberase	ブルースチール	Modrásek	Blue Steel	Μπλε Ατσάλι	Acero Azul	Blue Steel	Kék acél	Blue Steel	Par3	블루 스틸	Logam Biru	Staalblauw	Blåstål	Błękitna Stal	Taco Golfe	Голубая сталь	Blue Steel	Blå Stål	藍天使	Blue Steel
+704	Hibernator	Hibernator	Sac moyen Morphée	ハイベルネーター	Jezevec	Venus III	Υπνόσακος 3 εποχών Γαία	Hibernador	Hibernator-makuupussi	Mormota	Hibernator (Penahan dingin)	Orso Polare Plus	하이버네이터	Hibernator	Winterslaper	Overvintrer	Hibernator	Thermus	Спальни: "Спячка"	Hibernator	Dvala	舒眠三季睡袋	ถุงนอน Hibernator
+705	Firefly	Firefly	LuckyLux	ファイヤーフライ	Světluška	Natti	Φακός Μπελατρίξ	Luciérnaga	Firefly	Kanóc	Firefly	Lucciola	파이어플라이	Kunang-kunang	Vuurvlieg	Ildflue	Ognik	Pirilampo	Светлячок	Firefly	Eldflugan	螢火蟲	Firefly
+706	Extreme	Extrem	Ultime	エクストリーム	Extra	Extreme	4 Εποχών	Extremo	Extreme	Extrém	Extreme	Pro	익스트림	Ekstrem	Xtreme	Ekstrem	Ekstremum	Radical	Супер	Extreme	Extrem	專業	Extreme
+707	Canyon Mule	Canyon Mule	Atlas	キャニオンミュール	Tulák	Sisyfos	Εξοπλισμός Έβερεστ	Mula de carga	Canyon Mule	Bivaly	Canyon Mule	Giramondo	캐년 뮬	Canyon Mule	Sherpa	Kløvgampen	Beskid	MontAlto	Горный мул	Canyon Mule	Packåsnan	大冒險家	Canyon Mule
+708	EverGlow	EverGlow	PermaLux	エバーグロー	Pochodeň	Natti	Λάμπα Μπελατρίξ	Siempreviva	EverGlow	Örök fény	EverGlow	Morgana	에버글로우	EverGlow	ImmerGlans	Lyshetta	Blask	Brilhuz	Вечный свет	EverGlow	Lys	探險家	EverGlow
+709	Husky	Husky	Everest	ハスキー	Husky	Husky	Χάσκυ	Esquimal	Husky	Kutyaszán	Husky	Husky	허스키	Serak	Husky	Husky	Husky	Montana	Эскимос	Husky	Starke	神奇	Husky
+710	Granite	Granit	Granit	グラニテ	Zrcátko	Everest	Γρανίτης	Granito	Granite	Gránit	Granite	K2	그래닛	Granit	Graniet	Granitt	Granit	Granito	Гранит	Granite	Granit	超級	Granite
+711	Mountain Man	Mountain Man	Le Montagnard	マウンテンマン	Horal	Mountain Man	Σαβάνα	Montañero	Mountain Man	Hegyjáró	Mountain Man	Hora	마운틴 맨	Orang Gunung	Goliath	Veidemann	Yeti	Altitude	Пещерный человек	Mountain Man	Bergsmannen	大地悍將	Mountain Man
+712	Polar	Polar	Vision	ポーラー	Polar	Polar	Σέλας	Polar	Polar	Polár	Polar	Iceberg	폴라	Kutub	Poolijs	Polar	Polarny	Polar	Полюс	Polar	Polar	酷	Polar
+713	Edge	Edge	Couteau de chasse	エッジ	Nůž	Edge	Μαγκάιβερ	Cuchillo	Edge	Bicska MAX	Edge	Damasco	에지	Sisi	Incisie	Knivegg	Laser	Canivete	Лезвие	Edge	Fickkniv	銳利刀	Edge
+714	Seeker	Seeker	Lynx	シーカー	Ostříž	Seeker	Σαφάρι	Buscador	Seeker	Kereső	Seeker	Esploratore	시커	Pencari	Speurder	Saumfar	Szperacz	Explorador	Искатель	Seeker	Observatör	發現者	Seeker
+715	Glacier	Glacier	Eurêka	グレイシャー	Světoběžník	Glacier	Ρότα	Glaciar	Glacier	Jégmező	Glacier	Marco Polo	글레이셔	Glasier	Gletsjer	Vidda	Lodowiec	Glaciar	Ледник	Glacier	Glaciär	導航家	Glacier
+716	BugShield	InsektenSchock	Zutinsect	バグシールド	Repelent	BugShield	Εντομοαπωθητική Ασπίς	BichoStop	BugShield	Jégstop	BugShield	Elixir Plus	버그쉴드	Penghalang Kumbang	InsectWeg	luftvern mygg	Insekton	Dérmis	Мухо-Щит	BugShield	Insektia	免蟲擾	BugShield
+717	Sun	Sun	Solaire	サン	Slunečník	Sol	Παρασόλ	Sol	Sun	Nap	Sun	Sun	선	Matahari	Zon	Sol	Słońce	Dom	Солнце	Sun	Solig	陽光	Sun
+718	Course Pro	Course Pro	Omnium	コースプロ	Profi	Mercury	Γκόλφερ	Circuito Pro	Course Pro	Golfbajnok	Course Pro	Par4	코스 프로	Pro Kursus	GolfProf	Proffen	Golf Pro	Pró-golfe	Профи	Course Pro	Golf Pro	高球專家	Course Pro
+719	Hailstorm	Hailstorm	Ouragan	ヘイルストーム	Bouře	Mercury	Καταιγίδα	Tormenta	Hailstorm	Hailstorm	Hailstorm	Uragano	헤일스톰	Ribut Hujan Batu	Hagelstorm	Haglbyge	Burza	Hércules	Град	Hailstorm	Hagel	第一高桿	Hailstorm
+720	Relief	Balsam	Premiers soins	リリーフ	Úleva	Førstehjælp	Φαρμακείο	Alivio	Relief	Védelem	Relief	S.O.S.	릴리프	Bantuan	Eerste Hulp	Førstehjelp	Apteczka	Pomada	Аптечка	Relief	Första hjälpen	急救	Relief
+752	Alpha	Alpha	Alpha	アルファ	Alfa	Alpha	Άλφα	Alfa	Alpha	Alfa	Alpha	Alpha	알파	Alfa	Alpha	Alfa	Alpha	Alpha	Альфа	Alpha	Alfa	最初	Alpha
+753	Antoni	Antoni	Antoni	アントニ	Antoni	Antoni	Άντονυ	Antoni	Antoni	Antoni	Antoni	Antoni	안토니	Antoni	Antoni	Antoni	Antoni	Antoni	Антоний	Antoni	Antoni	安東尼	Antoni
+754	Epoch	Epoch	Époque	エポック	Epocha	Epoch	Εποχή	Epoch	Epoch	Epoch	Epoch	Epoca	에폭	Epok	Epoque	Epoke	Epoka	Epoch	Эпоха	Epoch	Epok	新時代	Epoch
+755	Navigator	Navigator	Navigateur	ナビゲータ	Navigátor	Navigator	Πλοηγός	Navegador	Navigator	Navigátor	Navigator	Navigatore	내비게이터	Navigator	Navigator	Navigator	Nawigator	Navegador	Навигатор	Navigator	Navigator	導航者	Navigator
+756	Relax	Relax	Relaxe	リラックス	Relax	Relax	Ανάπαυλα	Relajación	Relax	Relax	Relax	Relax	릴랙스	Relaks	Relax	Relax	Relax	Relax	Релакс	Relax	Relax	休閒	Relax
+757	Trakker	Trakker	Traqueur	トラッカー	Stopař	Trakker	Τράκερ	Trakker	Trakker	Trakker	Trakker	Corsa	트래커	Trakker	Trekker	Sporer	Trakker	Trakker	Следопыт	Trakker	Trakker	特羅克	Trakker
+758	Xray	Xray	RayonX	X-レイ	Záře	Xray	Ακτίνες Χ	Rayos X	Xray	Röntgen	Xray	Raggi X	엑스레이	Xray	Xray	Røntgen	Xray	Xray	Рентген	Xray	Xray	X 射線	Xray
